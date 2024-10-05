@@ -1,8 +1,9 @@
 #include <stdio.h> standar 
 
 int main(){
+int main = 1;
 
-printf(" test 2");
+  puts(main);
 
 return 0;
 }
